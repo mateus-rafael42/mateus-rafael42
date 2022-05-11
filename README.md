@@ -8,11 +8,11 @@
 </div>
 
 <div>
-<p>
-🔭 I'm currently working as a front-end dev and designer <\br>
+<p style="width: 100%; max-width: 200px">
+🔭 I'm currently working as a front-end dev and designer
 </p>
-<p>
-#🌱 I'm currently studying Physics at Universidade Federal do Paraná (UFPR) and Systems Analysis and Development at Centro Universitário Internacional (UNINTER)
+<p style="width: 100%; max-width: 200px">
+🌱 I'm currently studying Physics at Universidade Federal do Paraná (UFPR) and Systems Analysis and Development at Centro Universitário Internacional (UNINTER)
  </p>
 </div>
 
