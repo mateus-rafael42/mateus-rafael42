@@ -2,7 +2,7 @@
 ### My name is Mateus, but you can call me Matt (He/Him)
 
 <div display: flex>
-<\br>
+**<\br>**
 <p style="width: 100%; max-width: 200px">
 - 🔭 I'm currently working as a front-end dev and designer.
 </p>
