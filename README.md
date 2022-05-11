@@ -1,10 +1,8 @@
 ### Hello there, welcome to my GitHub profile! 👋
 
-<div>
-<a href="https://github.com/mateus-rafael42">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-rafael42&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-rafael42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 
 <!--
 **mateus-rafael42/mateus-rafael42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
