@@ -12,6 +12,7 @@
 
 <div display: flex>
 &nbsp;
+&nbsp;
 <p style="width: 100%; max-width: 200px">
 - 🔭 I'm currently working as a front-end dev and designer.
 </p>
