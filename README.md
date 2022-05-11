@@ -24,7 +24,7 @@
  </p>
 </div>
 
-<div class="tenor-gif-embed" data-postid="21148352" data-share-method="host" data-aspect-ratio="1.84971" data-width="100%"><a href="https://tenor.com/view/harel-harelp-totoro-miyazaki-myneigbortotoro-gif-21148352">Harel Harelp GIF</a>from <a href="https://tenor.com/search/harel-gifs">Harel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="21148352" data-share-method="host" data-aspect-ratio="1.84971" data-width="100%"><a href="https://tenor.com/view/harel-harelp-totoro-miyazaki-myneigbortotoro-gif-21148352">Harel Harelp GIF</a>from <a href="https://tenor.com/search/harel-gifs">Harel GIFs</a></div> 
 
 <!--
 **mateus-rafael42/mateus-rafael42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
