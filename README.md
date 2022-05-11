@@ -7,6 +7,7 @@
 </div>
 
 🔭 I'm currently working as a front-end dev and designer
+🌱 I'm currently studying Physics at Universidade Federal do Paraná (UFPR) and Systems Analysis and Development at Centro Universitário Internacional (UNINTER)
           
 
 <!--
