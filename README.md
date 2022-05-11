@@ -24,7 +24,9 @@
  </p>
 </div>
 
-<iframe src="https://giphy.com/embed/xMkWcQ9xTGH8A" width="480" height="255" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/maudit-my-neighbor-totoro-xMkWcQ9xTGH8A">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
 **mateus-rafael42/mateus-rafael42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
