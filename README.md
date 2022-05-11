@@ -1,21 +1,15 @@
 ## Hello there, welcome to my GitHub profile! 👋
 ### My name is Mateus, but you can call me Matt (He/Him)
 
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"  style="margin: 0 20px 0 0;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-</div>
-
 <div style="display: flex;">
 <p style="width: 100%; max-width: 200px">
-🔭 I'm currently working as a front-end dev and designer.
+- 🔭 I'm currently working as a front-end dev and designer.
 </p>
 <p style="width: 100%; max-width: 200px">
-🌱 I'm currently studying Physics at Universidade Federal do Paraná (UFPR) and Systems Analysis and Development at Centro Universitário Internacional (UNINTER).
+- 🌱 I'm currently studying Physics at Universidade Federal do Paraná (UFPR) and Systems Analysis and Development at Centro Universitário Internacional (UNINTER).
  </p>
  <p style="width: 100%; max-width: 200px">
- 🌟 I'm interested in working with front-end and design projects. I'm also studying physics and mathematics so i'm commited to learn more about the relation between programming and those sciences.
+- 🌟 I'm interested in working with front-end and design projects. I'm also studying physics and mathematics so i'm commited to learn more about the relation between programming and those sciences.
  </p>
 </div>
 
