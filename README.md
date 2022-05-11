@@ -1,7 +1,7 @@
 ## Hello there, welcome to my GitHub profile! 👋
 ### My name is Mateus, but you can call me Matt (He/Him)
 
-<div style="display: flex;">
+<div display: flex>
 <p style="width: 100%; max-width: 200px">
 - 🔭 I'm currently working as a front-end dev and designer.
 </p>
