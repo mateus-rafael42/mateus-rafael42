@@ -2,12 +2,12 @@
 ### My name is Mateus, but you can call me Matt (He/Him)
 
 
-<div style="display: flex;">
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"  style="margin: 0 20px 0 0;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </div>
 
-<div>
+<div style="display: flex;">
 <p style="width: 100%; max-width: 200px">
 🔭 I'm currently working as a front-end dev and designer
 </p>
