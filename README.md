@@ -36,6 +36,7 @@
 </div>
 
 <div align="left">
+  &nbsp;
   <img src="https://media.giphy.com/media/xMkWcQ9xTGH8A/giphy.gif" width="600" height="300"/>
 </div>
 
