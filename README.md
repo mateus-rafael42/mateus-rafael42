@@ -13,14 +13,17 @@
 <div display: flex>
 &nbsp;
 &nbsp;
-<p style="width: 100%; max-width: 200px">
+<p>
 - 🔭 I'm currently working as a front-end dev and designer.
 </p>
-<p style="width: 100%; max-width: 200px">
+<p>
 - 🌱 I'm currently studying Physics at Universidade Federal do Paraná (UFPR) and Systems Analysis and Development at Centro Universitário Internacional (UNINTER).
  </p>
- <p style="width: 100%; max-width: 200px">
+ <p>
 - 🌟 I'm interested in working with front-end and design projects. I'm also studying physics and mathematics so i'm commited to learn more about the relation between programming and those sciences.
+ </p>
+ <p>
+ - 📫 How to reach me: mateus.ufpr@outlook.com
  </p>
 &nbsp;
 </div>
