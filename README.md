@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, welcome to my GitHub profile! 👋
 
 <!--
 **mateus-rafael42/mateus-rafael42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
