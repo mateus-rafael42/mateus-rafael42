@@ -1,5 +1,9 @@
 ## Hello there, welcome to my GitHub profile! 👋
 ### My name is Mateus, but you can call me Matt (He/Him)
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+</div>
 
 <div display: flex>
 &nbsp;
