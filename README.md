@@ -1,5 +1,5 @@
 ## Hello there, welcome to my GitHub profile! 👋
-### My name is Mateus (He/Him)
+### My name is Mateus, but you can call me Matt (He/Him)
 
 
 <div style="display: flex;">
@@ -7,9 +7,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </div>
 
-#🔭 I'm currently working as a front-end dev and designer <\br>
+<div>
+<p>
+🔭 I'm currently working as a front-end dev and designer <\br>
+</p>
+<p>
 #🌱 I'm currently studying Physics at Universidade Federal do Paraná (UFPR) and Systems Analysis and Development at Centro Universitário Internacional (UNINTER)
-          
+ </p>
+</div>
 
 <!--
 **mateus-rafael42/mateus-rafael42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
