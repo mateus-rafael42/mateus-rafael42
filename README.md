@@ -22,6 +22,7 @@
  <p style="width: 100%; max-width: 200px">
 - 🌟 I'm interested in working with front-end and design projects. I'm also studying physics and mathematics so i'm commited to learn more about the relation between programming and those sciences.
  </p>
+&nbsp;
 </div>
 
 <div align="left">
