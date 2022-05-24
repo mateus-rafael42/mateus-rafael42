@@ -20,7 +20,7 @@
   - 🌱 I'm currently studying Physics at Universidade Federal do Paraná (UFPR) and Systems Analysis and Development at Centro Universitário Internacional (UNINTER).
    </p>
    <p>
-  - 🌟 I'm interested in learning more about the applications of progamming to my Physics and Mathematics studies, i really enjoy practicing Calculus with programming languages.
+  - 🌟 I'm interested in learning more about the applications of progamming for my Physics and Mathematics studies, I really enjoy practicing Calculus with programming languages.
    </p>
    <p>
    - 📫 How to reach me: mateus.ufpr@outlook.com
