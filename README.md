@@ -14,7 +14,7 @@
   &nbsp;
   &nbsp;
   <p>
-  - 🔭 I'm currently interested in working as a Front-end Developer, but i'm also open to learn more about back-end and design. I started programming July 2021.
+  - 🔭 I'm currently interested in working as a Front-end Developer, but i'm also open to learn more about back-end. I started programming July 2021.
   </p>
   <p>
   - 🌱 I'm currently studying Physics at Universidade Federal do Paraná (UFPR) and Systems Analysis and Development at Centro Universitário Internacional (UNINTER).
