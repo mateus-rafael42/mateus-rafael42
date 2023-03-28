@@ -14,13 +14,13 @@
   &nbsp;
   &nbsp;
   <p>
-  - 🔭 I currently work as a Front-end Developer at CodeSign - Curitiba, Brasil.
+  - 🔭 Right now I work as a Front-end Developer at CodeSign - Curitiba, Brasil.
   </p>
   <p>
   - 🌱 I'm currently studying Systems Analysis and Development at Centro Universitário Internacional (UNINTER).
    </p>
    <p>
-  - 🌟 I'm interested in learning more about web based applications and project management.
+  - 🌟 I'm currently interested in learning more about web based applications and project management.
    </p>
    <p>
    - 📫 How to reach me: mateus.ufpr@outlook.com
