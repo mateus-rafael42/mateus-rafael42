@@ -17,7 +17,7 @@
   - 🔭 Right now I work as a Front-end Developer at CodeSign - Curitiba, Brasil.
   </p>
   <p>
-  - 🌱 I'm currently studying Systems Analysis and Development at Centro Universitário Internacional (UNINTER).
+  - 🌱 I study Systems Analysis and Development at Centro Universitário Internacional (UNINTER).
    </p>
    <p>
   - 🌟 I'm currently interested in learning more about web based applications and project management.
