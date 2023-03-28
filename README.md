@@ -1,5 +1,5 @@
-## Hello there, welcome to my GitHub profile! 👋
-### My name is Mateus, but you can call me Matt (He/Him)
+## Hey, welcome to my GitHub profile! 👋
+### My name is Mateus, but you can call me Matt 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mateus-rafael-684074186/">
@@ -14,13 +14,13 @@
   &nbsp;
   &nbsp;
   <p>
-  - 🔭 I'm currently interested in working as a Front-end Developer, but i'm also open to learn more about back-end development. I started programming July 2021.
+  - 🔭 I currently work as a Front-end Developer at CodeSign - Curitiba, Brasil.
   </p>
   <p>
-  - 🌱 I'm currently studying Physics at Universidade Federal do Paraná (UFPR) and Systems Analysis and Development at Centro Universitário Internacional (UNINTER).
+  - 🌱 I'm currently studying Physics at Centro Universitário Internacional (UNINTER).
    </p>
    <p>
-  - 🌟 I'm interested in learning more about the applications of progamming for my Physics and Mathematics studies, I really enjoy practicing Calculus using programming languages.
+  - 🌟 I'm interested in learning more about web based applications and project management.
    </p>
    <p>
    - 📫 How to reach me: mateus.ufpr@outlook.com
