@@ -1,5 +1,5 @@
-## Hey, welcome to my GitHub profile! 👋
-### My name is Mateus, but you can call me Matt 
+## Hey, Mateus here! 👋
+### I'm a Front-end Developer and UI/UX Designer based in Brazil.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mateus-rafael-684074186/">
@@ -17,7 +17,7 @@
   - 🔭 I work as a Front-end Developer at CodeSign - Curitiba, Brazil.
   </p>
    <p>
-  - 🌟 I'm currently interested in learning more about UI/UX Design and .
+  - 🌟 I'm currently interested in learning more about UI/UX Design.
    </p>
    <p>
    - 📫 How to reach me: mateus.ufpr@outlook.com
