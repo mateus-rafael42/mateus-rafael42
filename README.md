@@ -1,5 +1,5 @@
 ## Hey, Mateus here! 👋
-### I'm a Front-end Developer and UI/UX Designer based in Brazil.
+### I'm a Designer Engineer based in Brazil.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mateus-rafael-684074186/">
