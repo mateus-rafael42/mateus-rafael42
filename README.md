@@ -14,10 +14,10 @@
   &nbsp;
   &nbsp;
   <p>
-  - 🔭 I work as a Front-end Developer at CodeSign - Curitiba, Brazil.
+  - 🔭 I currently work as a Front-end Developer and UI/UX Designer at CodeSign - Curitiba, Brazil.
   </p>
    <p>
-  - 🌟 Currently my main interest is to start a design degree.
+  - 🌟 Currently my main interests are: design, front-end, css preprocessors, vue.js, react.js.
    </p>
    <p>
    - 📫 How to reach me: mateus.ufpr@outlook.com
