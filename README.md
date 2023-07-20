@@ -17,7 +17,7 @@
   - 🔭 I work as a Front-end Developer at CodeSign - Curitiba, Brazil.
   </p>
    <p>
-  - 🌟 I'm currently interested in learning more about UI/UX Design.
+  - 🌟 I'm currently studying to start a design graduation.
    </p>
    <p>
    - 📫 How to reach me: mateus.ufpr@outlook.com
