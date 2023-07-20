@@ -20,7 +20,7 @@
   - 🌟 Currently my main interests are: design engineering, typography, UI/UX, css preprocessors, vue.js and react.js.
    </p>
    <p>
-   - 📫 How to reach me: mateus.ufpr@outlook.com
+   - 📫 How to reach me: mateus.ufpr@outlook.com.
    </p>
   &nbsp;
 </div>
