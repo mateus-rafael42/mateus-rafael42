@@ -17,7 +17,7 @@
   - 🔭 I currently work as a Front-end Developer and UI/UX Designer at CodeSign - Curitiba, Brazil.
   </p>
    <p>
-  - 🌟 Currently my main interests are: design, front-end, css preprocessors, vue.js, react.js.
+  - 🌟 Currently my main interests are: design, front-end, css preprocessors, vue.js and react.js.
    </p>
    <p>
    - 📫 How to reach me: mateus.ufpr@outlook.com
